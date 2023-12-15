@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <div style={{width:'50%',height:'50%',display:'flex',flexDirection:'column',justifyContent:'center'}}>
+      <div style={{width:'40%',height:'50%',display:'flex',flexDirection:'column',justifyContent:'center'}}>
         <h1 style={{textAlign:'center'}}>DatePicker demo with cra</h1>
         
         <DatePicker />
